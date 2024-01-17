@@ -1,7 +1,5 @@
 # LEARNING-PERSONALIZED-STORY-EVALUATION
 
-# CV Enhancement README
-
 ## Tasks Completed:
 
 1. **Literature Review:**
